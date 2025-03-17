@@ -5,3 +5,7 @@
 - `Task1_Student_score_regression.ipynb` - Jupyter Notebook with the analysis and model.
 - `README.md` - Project documentation.
 - `LICENSE` - MIT License
+
+## 🛠️ Tools Used
+- Python (pandas, NumPy, scikit-learn, matplotlib)
+- Jupyter Notebook
